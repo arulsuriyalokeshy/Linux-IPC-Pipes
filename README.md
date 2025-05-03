@@ -81,7 +81,7 @@ write(wfd,buff,n);
 }
 ~~~
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/3de20cf2-8126-48cb-b2ea-072286d3286c)
+![image](https://github.com/user-attachments/assets/3de20cf2-8126-48cb-b2ea-072286d3286c)<br>
 ![image](https://github.com/user-attachments/assets/81b395a0-27be-4634-91f5-fcb23ed07185)
 
 
